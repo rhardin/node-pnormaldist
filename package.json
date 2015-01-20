@@ -1,0 +1,23 @@
+{
+  "name": "pnormaldist",
+  "version": "1.0.0",
+  "description": "Statistics module: inverse of a normal distribution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhardin/node-pnormaldist.git"
+  },
+  "keywords": [
+    "pnormaldist",
+    "stats"
+  ],
+  "author": "Robert Hardin <rob@roberthardin.net> (http://www.roberthardin.net)",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/rhardin/node-pnormaldist/issues"
+  },
+  "homepage": "https://github.com/rhardin/node-pnormaldist"
+}
