@@ -1,6 +1,6 @@
 {
   "name": "pnormaldist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Statistics module: inverse of a normal distribution",
   "main": "index.js",
   "scripts": {
